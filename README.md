@@ -2,8 +2,8 @@ cat > README.md << 'EOF'
 
 # MUST Online Application Portal (Login and Create Account)
 
-**Name:** Byamugisha Alban
-**Registration number:** 2025/BSE/062/PS
+**Name:** mugisha fahadi
+**Registration number:** 2025/BSE/109/PS
 **Programme:** Bachelor of Science in Software Engineering (BSE)
 **Course unit:** Internet and Web Design
 **Type of work:** Individual assignment
